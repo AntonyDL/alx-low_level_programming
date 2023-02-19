@@ -18,7 +18,7 @@ int main(void)
 	{
 		putchar(hex_digit);
 		hex_digit++;
- 	}
+	}
 	else
 	{											hex_digit++;
 	}

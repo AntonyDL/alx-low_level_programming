@@ -14,14 +14,14 @@ int main(void)
 
 	while (hex_digit <= 'f')
 	{
-		if (hex_digit <= '9' || hex_digit >= 'a')
-			{
-				putchar(hex_digit);
-				hex_digit++;
- 			}
-			else
-			{											hex_digit++;
-			}
+	if (hex_digit <= '9' || hex_digit >= 'a')
+	{
+		putchar(hex_digit);
+		hex_digit++;
+ 	}
+	else
+	{											hex_digit++;
+	}
 	}
 
 	putchar('\n');

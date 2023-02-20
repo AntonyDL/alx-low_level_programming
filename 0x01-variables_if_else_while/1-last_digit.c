@@ -2,12 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* main-this program will assign a random number to vaiable n 
+/*
+ * main-this program will assign a random number to vaiable n
  * each time the program is excuted
  *
  * Return: the program always return 0 when program suceeds
  * 
- */ betty style doc for function main goes there */
+ * betty style doc for function main goes there */
 int main(void)
 	{
 		int n; last_digit;

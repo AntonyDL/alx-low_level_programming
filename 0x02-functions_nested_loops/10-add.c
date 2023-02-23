@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 /**
- * int_add - a function that adds two integers,
+ * add - a function that adds two integers,
  * and returns the result
+ * @a: int added to b
+ * @b: int added to a
+ * res: sum of a and b
  *
- * Return: Always return 0 (Success).
+ * Return: res - sum of a+b.
  */
 
 int add(int a, int b)

@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there*/
 
-/* main - a program that prints whether the number stored
+/*main-a program that prints whether the number stored
  * in the variable n is positive or negative
  *
  * Return: program always return's a 0 as success

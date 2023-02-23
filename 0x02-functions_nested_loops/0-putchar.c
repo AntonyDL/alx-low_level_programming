@@ -11,6 +11,7 @@
 
 int main(void)
 {
+	char _putchar;
 	/* Call the _putchar function to print the string _putchar */
 	_putchar('_');
 	_putchar('p');

@@ -3,8 +3,8 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
-/* main - a program that prints whether the number stored
+/* betty style doc for function main goes there
+ * main - a program that prints whether the number stored
  * in the variable n is positive or negative
  *
  * Return: program always return's a 0 as success
@@ -19,13 +19,13 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	/* your code goes there */
-	if (n>0)
+	if (n > 0)
 		printf ("%d is positive", n);
 	else if (n==0)
-		printf ("%d is zero", n);
+		printf("%d is zero", n);
 	else
 	{
-		printf ("%d is negative\n", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 	}

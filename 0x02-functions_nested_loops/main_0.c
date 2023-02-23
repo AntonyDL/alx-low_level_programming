@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -8,9 +7,6 @@
  */
 int main(void)
 {
-	int n;
-
-	n = add(89, 9);
-	printf("%d\n", n);
+	print_to_98(98);
 	return (0);
 }

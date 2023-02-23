@@ -4,7 +4,7 @@
  * int_add - a function that adds two integers,
  * and returns the result
  *
- * Return: Always return 0.
+ * Return: Always return 0 (Success).
  */
 
 int add(int, int)

@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- *
+ * Description: a program that calls the print_alphabet function
  * Return: Always 0.
  */
 

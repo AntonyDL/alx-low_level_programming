@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main- Entry Point
+ * print_alphabet - prints alphabets
  *
- *Desription: print_alphabet
- *print_alphabet: a program that prints all alphabets
- *in lowercasefollowed by a new line
-
+ * Description: A function that prints the alphabet,
+ * in lowercase, followed by a new line
+ *
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - prints alphabets in lowercase
+ * @i: used as an assignment to alphabets
  *
  * Description: a program that prints the alphabets in
  * lowercase then in uppercase followed by a new line

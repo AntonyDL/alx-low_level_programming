@@ -8,11 +8,14 @@
  *
  * Return: the program always return 0 when program suceeds
  * 
- * betty style doc for function main goes there */
+ * betty style doc for function main goes there 
+ */
 
 int main(void)
 {
 	int n; last_digit;
+
+	last_digit = 0;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;

@@ -3,8 +3,9 @@
 
 /**
  * main- Entry Point
- * Descrition: a program that prints all alphabets in lowercase
- * followed by a new line
+ *
+ * Descrition: print_alphabet(void) a program that prints all alphabets 
+ * in lowercasefollowed by a new line
  *
  */
 
@@ -17,4 +18,3 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }
-

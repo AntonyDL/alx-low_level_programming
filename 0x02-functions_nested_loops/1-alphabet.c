@@ -4,7 +4,7 @@
 /**
  * main- Entry Point
  *
- * print_alphabet: a program that prints all alphabets 
+ * print_alphabet - a program that prints all alphabets
  * in lowercasefollowed by a new line
  *
  */

@@ -7,13 +7,10 @@
  * Return: Always return 0 (Success).
  */
 
-int add(int, int)
+int add(int a, int b)
 {
-	int a;
-	int b;
 	int res;
 
 	res = a + b;
-	printf("The results of a+b is :%d\n", res);
-	return(0);
+	return(res);
 }
